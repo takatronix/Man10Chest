@@ -1,3 +1,5 @@
-name: Chest
+name: MChest
 version: ${project.version}
-main: red.man10.chest.Chest
+main: red.man10.chest.MChest
+commands:
+ mchest:
